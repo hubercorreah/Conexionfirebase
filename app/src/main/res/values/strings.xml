@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Conexion firebase</string>
+    <string name="facebook_app_id">353618045080502</string>
+    <string name="fb_login_protocol_scheme">fb353618045080502</string>
+    <string name="error_loging">ocurrio un error al ingresar</string>
+    <string name="cancel_loging">se cancelo el ingreso</string>
+
+</resources>

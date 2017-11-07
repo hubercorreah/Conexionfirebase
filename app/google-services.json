@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "288183770948",
+    "firebase_url": "https://primer-firebase-e8785.firebaseio.com",
+    "project_id": "primer-firebase-e8785",
+    "storage_bucket": "primer-firebase-e8785.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288183770948:android:03eec37c1b78094d",
+        "android_client_info": {
+          "package_name": "com.example.kellyhuber.conexionfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288183770948-u1nma17dt5vrfapv8162kfp1mbpnt505.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kellyhuber.conexionfirebase",
+            "certificate_hash": "bdeeb6de20de5f3f74e06d6a151dac63de8997c2"
+          }
+        },
+        {
+          "client_id": "288183770948-8s2fsj3l65msi2i3koej1o24i07ghmlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgOWiCNCPZG8aozzO5Gx3_IyblXA06TDg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288183770948-8s2fsj3l65msi2i3koej1o24i07ghmlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
